@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi, I'm Vanessa 👋
+
+Software Developer and Moringa School Graduate.
+
+## Technologies
+- JavaScript
+- React
+- Python
+- Flask
+- HTML
+- CSS
+- Git
+
+## Currently Learning
+- TypeScript
+- Cloud Computing
+
+## Projects
+- Portfolio Website
+- Full-Stack Web Applications
+- API Projects
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/vanessa-jowi-1758b33a8
 
 <!--
 **Vanessa-Faith/Vanessa-Faith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
